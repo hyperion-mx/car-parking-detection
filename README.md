@@ -41,7 +41,7 @@ Le système repose sur deux modèles entraînés sur des jeux de données spéci
 ├── model/               # Dossier contenant les fichiers .pt
 ├── tabs/                # Modules de l'interface graphique (Caméra, Clients, Logs...)
 └── requirements.txt     # Liste des dépendances nécessaires
-
+```
 
 ## 🚀 Installation et Lancement
 
